@@ -39,8 +39,8 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Psamcyite/chatgpt-clone.git
-   cd chatgpt-clone
+   git clone https://github.com/Psamcyite/chatgpt.git
+   cd chatgpt
    ```
 
 2. **Install dependencies**:
