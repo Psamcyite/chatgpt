@@ -39,7 +39,7 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/chatgpt-clone.git
+   git clone https://github.com/Psamcyite/chatgpt-clone.git
    cd chatgpt-clone
    ```
 
